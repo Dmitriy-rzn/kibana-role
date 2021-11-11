@@ -2,7 +2,7 @@ galaxy_info:
   author: Dmitrii Vikin
   description: your role description
   company: your company (optional)
-   role_name: kibana_role
+  role_name: kibana_role
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
